@@ -3,4 +3,4 @@
 
 
 ### About me
-Graduada em Análise e desenvolvimento de sistemas, atuando como Analista de qualidade, com foco em testes automatizados em front-end utilizando Ruby, Cucumber e Capybara e testes de APIs Rest
+Graduada em Análise e desenvolvimento de sistemas, atuando como Analista de qualidade, com foco em testes automatizados em front-end utilizando Ruby, Cucumber e capybara, além de testes de APIs Rest.

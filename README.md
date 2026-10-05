@@ -4,4 +4,8 @@
 
 
 ### About me
-Graduada em Análise e desenvolvimento de sistemas, atuando como Analista de qualidade, com foco em testes automatizados em front-end utilizando Ruby, Cucumber e capybara, além de testes de APIs Rest.
+Engenheira de Qualidade, ISTQB® Certified Tester, com foco em automação de testes nas seguintes linguagens/Frameworks
+  - Java + Selenium + cucumber
+  - C# + Selenium + cucumber
+  - CodeceptJS
+  - playwright + cucumber
